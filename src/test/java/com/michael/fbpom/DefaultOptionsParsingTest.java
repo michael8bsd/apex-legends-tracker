@@ -1,4 +1,4 @@
-package com.dmytrobilokha.fbpom;
+package com.michael.fbpom;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

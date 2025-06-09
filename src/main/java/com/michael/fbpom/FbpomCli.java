@@ -1,4 +1,4 @@
-package com.dmytrobilokha.fbpom;
+package com.michael.fbpom;
 
 import java.nio.file.Paths;
 

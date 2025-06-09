@@ -10,7 +10,7 @@
           </run>
       </groups>
       <packages>
-          <package name="com.dmytrobilokha.fbpom.*"/>
+          <package name="com.michael.fbpom.*"/>
       </packages>
  </test>
 </suite>

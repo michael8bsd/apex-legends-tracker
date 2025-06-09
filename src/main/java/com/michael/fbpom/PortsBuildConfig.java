@@ -1,4 +1,4 @@
-package com.dmytrobilokha.fbpom;
+package com.michael.fbpom;
 
 import java.util.SortedMap;
 import java.util.SortedSet;

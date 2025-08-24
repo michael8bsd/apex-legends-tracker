@@ -1,1 +1,0 @@
-## libgdx patch for freebsd
